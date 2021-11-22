@@ -43,6 +43,7 @@ public class Main {
         Exercise4 exercise4=new Exercise4();
         exercise4.MaxMinDouble();
 
+
         System.out.println("\nExercise 6");
         Exercise6 exercise6=new Exercise6();
         exercise6.Factorial(1000);
